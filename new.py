@@ -4,6 +4,6 @@ deviceid="3258235440DA8E95B09E9A23CC54608F8A3A554DD30E232CCE5BBC7BA12EB302583DF0
 emaill="yahiro2k12@gmail.com"
 passwordd="ventiii123"
 custompwd="ventiii123"
-url="https://ElatedSlipperyArchive.crimsondead.repl.co"
+url="https://yahifarm.aidenplays.repl.co"
 chatlink="http://aminoapps.com/p/vue5yj8"
 nickname="orochinho"
